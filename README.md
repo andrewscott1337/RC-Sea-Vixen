@@ -1,0 +1,1 @@
+RC Sea Vixen in a parkjet configuration similar to the old RC Powers easy build planes. Build with 6mm Depron foam and a brushless motor (I used to use the Microjet V3 for these size planes). I may update these to inclde a cut out for the old RC Powers motor mount.
